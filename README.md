@@ -60,7 +60,6 @@ To operate the robotic arm, you will need to understand both forward and inverse
 Contributions are welcome, especially from those with experience in mechanical design, coding in Python, and Raspberry Pi configurations. Here is how you can contribute:
 
 - **Coding**: Help improve the code for inverse kinematics, or suggest better algorithms for motion control.
-- **Fabrication**: Assistance with improving the design and assembly of the robotic arm.
 
 To get started, fork the repository, make your changes, and submit a pull request. We are excited to see your innovative ideas and contributions!
 
