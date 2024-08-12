@@ -1,5 +1,5 @@
 # Robotic-Arm-
-Constructed a 3DOF Robotic Arm having a circular saw as a end effector for cutting application. 
+We constructed a 3DOF Robotic Arm with a circular saw as an end effector for cutting application. 
 <br>
-- Ellur Mouneesh
+Author - Ellur Mouneesh
 
