@@ -19,7 +19,7 @@ The AX-12A servo motor is a popular model from the Dynamixel series developed by
 ![U2D2 Power Hub](u2d2-power-hub.png)
 ![U2D2 Driver](u2d2-driver.png)
 
-The U2D2 Power Hub Board is designed to supply power to Dynamixel servos, supporting both TTL and RS-485 interfaces.
+The U2D2 Power Hub Board is designed to supply power to Dynamixel servos, U2D2 deiver for supporting both TTL and RS-485 interfaces.
 
 #### Specifications
 - **Operating Voltage**: 7.4 to 24V
